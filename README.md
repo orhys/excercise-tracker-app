@@ -1,2 +1,1 @@
-# excercise-tracker-app
- 
+# exercise-tracker-app
